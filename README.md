@@ -23,7 +23,7 @@ O commit initial project é referente aos arquivos HTML e CSS disponibilizados p
 
 ## 🖥️ Acesso ao projeto
 
-[Clique aqui](https://robotron-six-mu.vercel.app/) para acessar o Robotron no seu navegador.
+<p><a href="https://robotron-six-mu.vercel.app/" target="_blank">Clique aqui</a> para acessar o Robotron no seu navegador.</p>
 
 Após abrir o projeto basta clicar nos botões de mais e menos em cada peça e equipar o seu robô.
 
